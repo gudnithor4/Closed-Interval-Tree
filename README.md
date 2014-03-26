@@ -14,7 +14,7 @@ Command line operations
 - ’?p a’   print out all intervals in the tree that include the point a
 
 Input Example
--------------
+_____________
 + 1 2
 ?o 2 3
 + 2 3
@@ -25,7 +25,7 @@ Input Example
 ?p 5
 
 Output Example
---------------
+______________
 [1, 2]
 [0, 4] [2, 3]
 [0, 4] [1, 2]
