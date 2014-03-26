@@ -13,8 +13,7 @@ Command line operations
 - ’?i a b’ prints out all intervals [c, d] in the tree that include [a, b] c <= a og b <= d.
 - ’?p a’   print out all intervals in the tree that include the point a
 
-Input Example
--------------
+Input Example:
 + 1 2
 ?o 2 3
 + 2 3
@@ -24,11 +23,11 @@ Input Example
 ?p 2
 ?p 5
 
-Output Example
---------------
-[1, 2] \n
+Output Example:
+[1, 2]
 [0, 4] [2, 3]
 [0, 4] [1, 2]
+sfwef
 
 
 ## GRADE
