@@ -26,7 +26,11 @@ Output Example:
 - [1, 2]
 - [0, 4] [2, 3]
 - [0, 4] [1, 2]
+- []
 
+Test:
+- $java Verkefni2 < s1.in | diff -w s1.out - | wc -l
+- If this returns 0 there is no difference between the correct output and the trees output
 
 
 ## GRADE
