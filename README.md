@@ -32,8 +32,3 @@ Test:
 - $java Verkefni2 < s1.in | diff -w s1.out - | wc -l
 - If this returns 0 there is no difference between the correct output and the trees output
 
-
-## GRADE
-Grade 60% for the code and 40% for test client. 
-
-Grade: 9.5 / 10.0
