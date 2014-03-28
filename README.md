@@ -2,7 +2,9 @@ Closed Interval Tree
 ===================
 Software Engineering, 2nd year, Algorithm Analysis, University of Iceland 2014
 
-Tree for closed intervals [a, b], that is each node has one interval written in Java
+Tree for closed intervals [a, b], each node has one interval.
+
+Written in Java
 
 Command line operations
 ------------------------
