@@ -1,6 +1,6 @@
 Closed Interval Tree
 ===================
-Software Engineering, 2nd year, Algorithm Analysis, University of Iceland 2014
+Software Engineering, 2nd year, Analysis of Algorithms, University of Iceland 2014
 
 Tree for closed intervals [a, b], each node has one interval.
 
